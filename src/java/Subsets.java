@@ -1,6 +1,8 @@
 package java;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -43,7 +45,7 @@ public class Subsets {
     /*
     update:两个for循环可以合并的嘛
      */
-    public List<List<Integer>> subsets(int[] nums) {
+    public List<List<Integer>> subsets2(int[] nums) {
         int w = (int)Math.pow(2, nums.length);
         List<List<Integer>> res = new ArrayList<>();
         for(int i=0; i<w; i++){
@@ -56,5 +58,25 @@ public class Subsets {
             res.add(num);
         }
         return res;
+    }
+    /*
+    backtracking函数通过start变量来避免相同子集的出现public List<List<Integer>> subsetsWithDup(int[] nums) {
+
+    }
+     */
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> ans  = new LinkedList<>();
+        Arrays.sort(nums);
+        backtracking(new ArrayList<>(), nums, ans, 0);
+        return ans;
+    }
+
+    private void backtracking(List<Integer> curr, int[] nums, List<List<Integer>> ans, int start){
+        ans.add(new ArrayList<>(curr));
+        for(int i=start; i<nums.length; i++){
+            curr.add(nums[i]);
+            backtracking(curr, nums, ans, i+1);
+            curr.remove(curr.size()-1);
+        }
     }
 }
