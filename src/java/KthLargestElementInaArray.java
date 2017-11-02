@@ -3,6 +3,7 @@ package java;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
+
 /**
  * Created by haileyyin on 10/29/17.
  */
@@ -29,7 +30,7 @@ public class KthLargestElementInaArray {
         return pq.peek();
     }
     /*
-    sorted the array first, then return the kth element.
+    quick sort the array first, then return the (n-k)th element.
      */
     public int findKthLargest(int[] nums, int k) {
 
