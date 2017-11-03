@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b497af1f-45a5-4589-abe8-c65f07db6312" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/UglyNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/UglyNumber2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/KthLargestElementInaArray.java" afterPath="$PROJECT_DIR$/src/java/KthLargestElementInaArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/ClimbingStairs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/FirstUniqueCharacterinaString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/SuperUglyNumber.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,104 +21,36 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Subsets.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/Subsets.java">
+      <file leaf-file-name="SuperUglyNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/SuperUglyNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="80" column="5" lean-forward="false" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Subsets2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/Subsets2.java">
+      <file leaf-file-name="ClimbingStairs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/ClimbingStairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PalindromePartitioning.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/PalindromePartitioning.java">
+      <file leaf-file-name="FirstUniqueCharacterinaString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/FirstUniqueCharacterinaString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="36" column="52" lean-forward="false" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UniqueBinarySearchTrees.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/UniqueBinarySearchTrees.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BestTimetoBuyandSellStockwithTransactionFee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/BestTimetoBuyandSellStockwithTransactionFee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinimumASCIIDeleteSumforTwoStrings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/MinimumASCIIDeleteSumforTwoStrings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KthLargestElementInaArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/KthLargestElementInaArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="76" column="5" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="76" selection-end-column="5" />
+            <state relative-caret-position="846">
+              <caret line="79" column="1" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="79" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1154#1174#0" expanded="true" />
+                <element signature="e#2070#2090#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UglyNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/UglyNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UglyNumber2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java/UglyNumber2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Permutations.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/Permutations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -145,6 +78,9 @@
         <option value="$PROJECT_DIR$/src/java/KthLargestElementInaArray.java" />
         <option value="$PROJECT_DIR$/src/java/UglyNumber.java" />
         <option value="$PROJECT_DIR$/src/java/UglyNumber2.java" />
+        <option value="$PROJECT_DIR$/src/java/SuperUglyNumber.java" />
+        <option value="$PROJECT_DIR$/src/java/ClimbingStairs.java" />
+        <option value="$PROJECT_DIR$/src/java/FirstUniqueCharacterinaString.java" />
       </list>
     </option>
   </component>
@@ -612,12 +548,12 @@
       <workItem from="1508818401317" duration="8995000" />
       <workItem from="1509381008767" duration="54000" />
       <workItem from="1509427957543" duration="543000" />
-      <workItem from="1509573209423" duration="1722000" />
+      <workItem from="1509573209423" duration="2095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26247000" />
+    <option name="totallyTimeSpent" value="26620000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -699,40 +635,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java/PopulatingNextRightPointersinEachNode2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="63" column="1" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="63" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/PascalsTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#253#268#0" expanded="false" />
-            <element signature="e#318#327#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/PascalsTriangle2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#254#269#0" expanded="false" />
-            <element signature="e#319#328#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/BinaryTreeLevelOrderTraversal2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1080,7 +982,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1088,7 +992,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1155">
           <caret line="80" column="5" lean-forward="false" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1096,7 +1002,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1104,7 +1012,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="36" column="52" lean-forward="false" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1120,7 +1030,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="e#306#307#0" expanded="false" />
+            <element signature="e#368#369#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1137,7 +1050,7 @@
         <state relative-caret-position="768">
           <caret line="76" column="5" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="76" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1155,6 +1068,34 @@
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/SuperUglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/ClimbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/FirstUniqueCharacterinaString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="79" column="1" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="79" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1154#1174#0" expanded="true" />
+            <element signature="e#2070#2090#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
