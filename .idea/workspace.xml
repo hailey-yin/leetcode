@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b497af1f-45a5-4589-abe8-c65f07db6312" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/LongestSubstringWithoutRepeatingCharacters.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/NumArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/WordLadder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/MinimumGeneticMutation.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -80,11 +78,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordLadder.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WordLadder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/WordLadder.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinimumGeneticMutation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/MinimumGeneticMutation.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="516">
-              <caret line="56" column="1" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="56" selection-end-column="1" />
+              <caret line="106" column="1" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="106" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,6 +131,7 @@
         <option value="$PROJECT_DIR$/src/java/FirstUniqueCharacterinaString.java" />
         <option value="$PROJECT_DIR$/src/java/LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/src/java/WordLadder.java" />
+        <option value="$PROJECT_DIR$/src/java/MinimumGeneticMutation.java" />
       </list>
     </option>
   </component>
@@ -589,12 +600,12 @@
       <workItem from="1509381008767" duration="54000" />
       <workItem from="1509427957543" duration="543000" />
       <workItem from="1509573209423" duration="2687000" />
-      <workItem from="1509733558926" duration="1746000" />
+      <workItem from="1509733558926" duration="2818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28958000" />
+    <option name="totallyTimeSpent" value="30030000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -676,16 +687,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java/PopulatingNextRightPointersinEachNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="1" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="49" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/LowestCommonAncestorofaBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1128,8 +1129,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/WordLadder.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/MinimumGeneticMutation.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
-          <caret line="56" column="1" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="56" selection-end-column="1" />
+          <caret line="106" column="1" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="106" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
