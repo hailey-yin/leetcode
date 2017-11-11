@@ -48,7 +48,5 @@ public class WordLadder2 {
                 }
             }
         }
-    }public String longestPalindrome(String s) {
-
     }
 }
