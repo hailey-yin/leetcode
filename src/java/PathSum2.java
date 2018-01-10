@@ -1,6 +1,7 @@
 package java;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
 
@@ -39,10 +40,41 @@ public class PathSum2 {
             temp.remove(temp.size()-1);
         }
     }
+
+    /*
+    update: 不存在超过target停止的情况，因为节点和sum的值可能为负数
+     */
+    public List<List<Integer>> pathSum2(TreeNode root, int sum) {
+        List<List<Integer>> ans = new ArrayList<>();
+        if(root==null){
+            return ans;
+        }
+        dfs(root, sum, new LinkedList<Integer>(), ans);
+        return ans;
+    }
+
+    private void dfs(TreeNode root, int remain, List<Integer> curr, List<List<Integer>> ans){
+        if(root.left==null && root.right==null && root.val==remain){
+            curr.add(root.val);
+            ans.add(new LinkedList(curr));
+            curr.remove(curr.size()-1);
+            return;
+        }
+        if(root.left!=null){
+            curr.add(root.val);
+            dfs(root.left, remain-root.val, curr, ans);
+            curr.remove(curr.size()-1);
+        }
+        if(root.right!=null){
+            curr.add(root.val);
+            dfs(root.right, remain-root.val, curr, ans);
+            curr.remove(curr.size()-1);
+        }
+    }
     /*
     方法二：stack
      */
-    public List<List<Integer>> pathSum(TreeNode root, int sum) {
+    public List<List<Integer>> pathSum3(TreeNode root, int sum) {
         List<List<Integer>> list = new ArrayList<List<Integer>>();
         if(root==null) return list;
         Stack<Integer> path = new Stack<Integer>();
