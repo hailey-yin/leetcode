@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b497af1f-45a5-4589-abe8-c65f07db6312" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/BattleshipsinaBoard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/FindAllAnagramsinaString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/QueueReconstructionbyHeight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/SumofLeftLeaves.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/FizzBuzz.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/NumberofSegmentsinaString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/PathSumIII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/SentenceScreenFitting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/ThirdMaximumNumber.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,93 +23,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReverseVowelsofaString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/ReverseVowelsofaString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RangeSumQueryImmutable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/RangeSumQueryImmutable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AssignCookies.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/AssignCookies.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddStrings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/AddStrings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="1" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindAllNumbersDisappearedinanArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/FindAllNumbersDisappearedinanArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BinaryWatch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/BinaryWatch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="55" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SumofLeftLeaves.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/SumofLeftLeaves.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="57" column="1" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="57" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueueReconstructionbyHeight.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/QueueReconstructionbyHeight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -116,21 +36,61 @@
       <file leaf-file-name="BattleshipsinaBoard.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/BattleshipsinaBoard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
+            <state relative-caret-position="1320">
               <caret line="88" column="36" lean-forward="false" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindAllAnagramsinaString.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java/FindAllAnagramsinaString.java">
+      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThirdMaximumNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/ThirdMaximumNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberofSegmentsinaString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/NumberofSegmentsinaString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PathSumIII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/PathSumIII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SentenceScreenFitting.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/SentenceScreenFitting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="50" column="27" lean-forward="false" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -168,11 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java/RemoveDuplicatesfromSortedList.java" />
-        <option value="$PROJECT_DIR$/src/java/PartitionList.java" />
-        <option value="$PROJECT_DIR$/src/java/RemoveDuplicatesfromSortedListII.java" />
-        <option value="$PROJECT_DIR$/src/java/ReverseNodesinkGroup.java" />
-        <option value="$PROJECT_DIR$/src/java/ConvertSortedListtoBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/java/ReorderList.java" />
         <option value="$PROJECT_DIR$/src/java/CopyListwithRandomPointer.java" />
         <option value="$PROJECT_DIR$/src/java/RandomListNode.java" />
@@ -219,6 +174,11 @@
         <option value="$PROJECT_DIR$/src/java/QueueReconstructionbyHeight.java" />
         <option value="$PROJECT_DIR$/src/java/BattleshipsinaBoard.java" />
         <option value="$PROJECT_DIR$/src/java/FindAllAnagramsinaString.java" />
+        <option value="$PROJECT_DIR$/src/java/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/java/ThirdMaximumNumber.java" />
+        <option value="$PROJECT_DIR$/src/java/NumberofSegmentsinaString.java" />
+        <option value="$PROJECT_DIR$/src/java/PathSumIII.java" />
+        <option value="$PROJECT_DIR$/src/java/SentenceScreenFitting.java" />
       </list>
     </option>
   </component>
@@ -248,6 +208,8 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -280,8 +242,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -759,12 +719,13 @@
       <workItem from="1517598895573" duration="47000" />
       <workItem from="1517641782830" duration="142000" />
       <workItem from="1517676517553" duration="133000" />
-      <workItem from="1517771506092" duration="1298000" />
+      <workItem from="1517771506092" duration="1541000" />
+      <workItem from="1517799922743" duration="4307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111700000" />
+    <option name="totallyTimeSpent" value="116250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -851,41 +812,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java/RemoveDuplicatesfromSortedListII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/ReverseNodesinkGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/ConvertSortedListtoBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/ReorderList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/RandomListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/CopyListwithRandomPointer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1206,8 +1132,8 @@
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
           <folding>
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="false" />
+            <element signature="e#367#368#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1232,9 +1158,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1242,9 +1166,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="55" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1252,25 +1174,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="57" column="1" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="57" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/QueueReconstructionbyHeight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="345">
           <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#706#707#0" expanded="false" />
+            <element signature="e#782#783#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/BattleshipsinaBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
+        <state relative-caret-position="1320">
           <caret line="88" column="36" lean-forward="false" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
           <folding />
         </state>
@@ -1283,6 +1204,48 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/ThirdMaximumNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/NumberofSegmentsinaString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/PathSumIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/SentenceScreenFitting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="27" lean-forward="false" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
