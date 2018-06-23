@@ -43,4 +43,24 @@ public class JumpGameII {
         }
         return jumps;
     }
+    /*
+    dp
+     */
+    public int jump(int[] nums) {
+        int[] dp = new int[nums.length];
+        dp[nums.length-1] = 0;
+        for (int i = nums.length-2; i >= 0; i--) {
+            int min = Integer.MAX_VALUE;
+            int j = 1;
+            while (j <= nums[i] && i+j < nums.length) {
+                min = Math.min(min, dp[i+j]);
+                j++;
+            }
+            if (min == Integer.MAX_VALUE)
+                dp[i] = min;
+            else
+                dp[i] = min + 1;
+        }
+        return dp[0];
+    }
 }

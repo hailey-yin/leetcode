@@ -5,6 +5,19 @@ package java;
  */
 public class MaximumSubarra {
     /*
+    Time: O(n)
+    Space: O(1)
+     */
+    public int maxSubArray(int[] nums) {
+        int cur = nums[0];
+        int res = cur;
+        for(int i=1; i<nums.length; i++){
+            cur = Math.max(cur+nums[i], nums[i]);
+            res = Math.max(res, cur);
+        }
+        return res;
+    }
+    /*
    brutal force:
    time complexity: O(n^2)
    space complexity: O(1)
