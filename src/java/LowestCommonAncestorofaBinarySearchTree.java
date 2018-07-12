@@ -4,18 +4,27 @@ package java;
  * Created by haileyyin on 5/2/18.
  */
 public class LowestCommonAncestorofaBinarySearchTree {
+    /*
+        dfs: recursion
+        base case: root == null
+        recursive rule:
+             case 0: root.val == p.val || root.val == q.val, return root
+             case 1: LCA(root.left) not null && LCA(root.right) not null, return root
+             case 2: LCA(root.left) not null || LCA(root.right) not null, return not null value
+             case 3: LCA(root.left)     null && LCA(root.right)     null, return null
+        */
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-
-        if(p.val < root.val && q.val < root.val) {
-            return lowestCommonAncestor(root.left, p, q);
-        } else if(p.val > root.val && q.val > root.val) {
-            return lowestCommonAncestor(root.right, p, q);
-        } else if(root.val <  Math.max(p.val, q.val)  && root.val > Math.min(p.val, q.val)) {
-            return root;
-        } else if(p.val == root.val || q.val == root.val) {
+        if (root == null) { // base case
+            return null;
+        }
+        if (root.val == p.val || root.val == q.val) {
             return root;
         }
-
-        return null;
+        TreeNode left = lowestCommonAncestor(root.left, p ,q);
+        TreeNode right = lowestCommonAncestor(root.right, p, q);
+        if (left != null && right != null) {
+            return root;
+        }
+        return left == null ? right : left;
     }
 }
